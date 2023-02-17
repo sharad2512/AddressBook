@@ -172,3 +172,8 @@ select{
     color: #42515f;
     background-color: transparent ;
 }
+error-output{
+    font-family: Roboto;
+    font-size: 12px;
+    color: red;
+}
